@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="font_very_big">30sp</dimen>
+    <dimen name="font_small">16sp</dimen>
+    <dimen name="font_Normal">13sp</dimen>
+    <dimen name="font_small_very">11sp</dimen>
+    <dimen name="font_medium">18sp</dimen>
+    <dimen name="font_big">20sp</dimen>
+    <dimen name="design_bottom_navigation_height" tools:override="true">70dp</dimen>
+</resources>

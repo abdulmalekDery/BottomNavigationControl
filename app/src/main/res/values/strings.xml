@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationControl</string>
+    <string name="my_offers">Offers</string>
+    <string name="my_balance">Balance</string>
+    <string name="my_orders">Orders</string>
+    <string name="my_profile">Profile</string>
+    <string name="home">Home</string>
+</resources>

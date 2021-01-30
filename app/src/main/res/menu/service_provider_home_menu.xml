@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/home"
+        android:id="@+id/service_provider_home_fragment"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item android:title="@string/my_offers"
+        android:id="@+id/service_provider_offers_fragment"
+        android:icon="@drawable/ic_my_offers"/>
+
+    <item android:title="@string/my_balance"
+        android:id="@+id/service_provider_balance_fragment"
+        android:icon="@drawable/ic_my_balance"/>
+
+    <item android:title="@string/my_orders"
+        android:id="@+id/service_provider_orders_fragment"
+        android:icon="@drawable/ic_my_orders"
+       />
+
+    <item android:title="@string/my_profile"
+        android:id="@+id/service_provider_profile_fragment"
+        android:icon="@drawable/ic_my_profile"/>
+</menu>
