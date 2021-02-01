@@ -1,1 +1,1 @@
-# BottomNotificationsControl
+# BottomNavigationControl
