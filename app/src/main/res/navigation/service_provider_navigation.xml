@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/service_provider_navigation"
+    app:startDestination="@id/service_provider_home_fragment"
+    >
+
+    <fragment
+        android:id="@+id/service_provider_home_fragment"
+        android:name="com.test.bottomnavigationcontrol.ServiceProviderHomeFragment"
+        android:label="ServiceProviderHome"/>
+
+    <fragment
+        android:id="@+id/service_provider_offers_fragment"
+        android:name="com.test.bottomnavigationcontrol.ServiceProviderOffersFragment"
+        android:label="ServiceProviderOffers"/>
+
+    <fragment
+        android:id="@+id/service_provider_balance_fragment"
+        android:name="com.test.bottomnavigationcontrol.ServiceProviderBalanceFragment"
+        android:label="ServiceProviderBalance"/>
+
+    <fragment
+        android:id="@+id/service_provider_orders_fragment"
+        android:name="com.test.bottomnavigationcontrol.ServiceProviderOrdersFragment"
+        android:label="ServiceProviderOrders"/>
+
+    <fragment
+        android:id="@+id/service_provider_profile_fragment"
+        android:name="com.test.bottomnavigationcontrol.ServiceProviderProfileFragment"
+        android:label="ServiceProviderProfile"/>
+
+</navigation>
