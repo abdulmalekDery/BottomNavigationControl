@@ -1,7 +1,7 @@
 # BottomNavigationControl
 
-A tiny repo to demonstrate the best way to customize the native BottomNavigation View 
-here is a short soltion code to the original stackoverflow Q & A
+A tiny repo to demonstrate the best way to customize the native BottomNavigation View.__
+Here there is a short soltion code to the original stackoverflow Q & A
 
 the question:
 https://stackoverflow.com/q/56737879/6118808
